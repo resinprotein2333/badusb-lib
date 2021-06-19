@@ -16,7 +16,7 @@
 ## 其他
 关于木马文件的托管可以到这里来
 * 文件托管:[fail.io](https://www.file.io/)
-* 木马免杀框架:[]()
+* 木马免杀框架:[Veil-Framework](https://github.com/Veil-Framework/Veil-Evasion)
 
 ## 最后
 呵呵，东西给的这么详细了，给个星星★不过分吧
