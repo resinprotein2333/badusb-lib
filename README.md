@@ -14,7 +14,7 @@
   * Windows 7 
 
 ## 其他
-关于木马文件的托管可以到这里来
+
 * 文件托管:[fail.io](https://www.file.io/)
 * 木马免杀框架:[Veil-Framework](https://github.com/Veil-Framework/Veil-Evasion)
 
