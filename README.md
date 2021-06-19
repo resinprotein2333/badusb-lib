@@ -12,7 +12,9 @@
 * 靶机系统环境
   * Windows 10
   * Windows 7 
-#
+## 指令加密
+由于powershell的
+
 ## 其他
 
 * 文件托管:[fail.io](https://www.file.io/)
