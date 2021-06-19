@@ -13,8 +13,10 @@
   * Windows 10
   * Windows 7 
 ## 指令加密
-由于powershell的-enc参数只能解析由powershell创建的base64参数所以找到了一个脚本来完成这项任务
-
+* 由于powershell的-enc参数只能解析由powershell创建的base64参数所以找到了一个脚本来完成这项任务
+'''sh
+$PSVersionTable
+'''
 
 ## 其他
 
