@@ -1,0 +1,4 @@
+$fileContent = “所要编码的脚本”
+$bytes = [System.Text.Encoding]::Unicode.GetBytes($fileContent)
+$encodedCommand = [Convert]::ToBase64String($bytes)
+echo $encodedCommand
