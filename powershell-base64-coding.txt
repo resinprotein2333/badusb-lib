@@ -1,4 +1,4 @@
-$fileContent = ¡°ËùÒª±àÂëµÄ½Å±¾¡±
+$fileContent = â€˜è¯·å°†æˆ‘æ›¿æ¢ä¸ºä½ æ‰€éœ€è¦åŠ å¯†çš„æŒ‡ä»¤â€™
 $bytes = [System.Text.Encoding]::Unicode.GetBytes($fileContent)
 $encodedCommand = [Convert]::ToBase64String($bytes)
 echo $encodedCommand
