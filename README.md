@@ -1,5 +1,5 @@
 ## badusb-code
-[![standard-readme compliant](https://img.shields.io/badge/powershell-17.0%25-blue)]
+[![](https://img.shields.io/badge/powershell-17.0%25-blue.svg)]
 
 这里包含着一些自己写的一些badusb配合msf，cobaltskite的一些攻击代码，旨在弥补国内相关方面的文献缺失。
 
