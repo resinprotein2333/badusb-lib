@@ -1,5 +1,5 @@
 ## badusb-code
-![](https://img.shields.io/badge/By:-resinprotein2333-green.svg) ![](https://badgen.net/github/stars/resinprotein2333/badusb-code)
+![](https://img.shields.io/badge/By:-resinprotein2333-green.svg) ![](https://badgen.net/github/stars/resinprotein2333/badusb-code) ![](https://badgen.net/github/license/resinprotein2333/badusb-code)
 
 这里包含着一些自己写的一些badusb配合msf，cobaltskite的一些攻击代码，旨在弥补国内相关方面的文献缺失。
 
