@@ -5,7 +5,7 @@
 
 ## 测试环境
 * 软件
-  * Cobaltskite 4.0
+  * CobaltStrike 4.0
   * Metasploit Framwork（MSF）
 * 攻击机系统环境
   * Ubuntu 20.04
