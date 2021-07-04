@@ -1,7 +1,7 @@
 ## badusb-lib
 ![](https://img.shields.io/badge/Github-resinprotein2333-green.svg) ![](https://badgen.net/github/stars/resinprotein2333/badusb-lib) ![](https://badgen.net/github/license/resinprotein2333/badusb-lib)
 
-这里包含着一些自己写的一些badusb配合msf，cobaltskite的一些攻击代码，还有一些自己收集的高级玩法，旨在弥补国内相关方面的文献缺失。
+这里包含着一些自己写的一些badusb配合msf，cobaltskite的一些攻击代码，还有一些自己收集的高级玩法。
 
 ## 测试环境
 * 软件
